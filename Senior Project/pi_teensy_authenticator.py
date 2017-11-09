@@ -22,8 +22,8 @@ from_number = "+19494080188"
 client = TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN) 
 
 # Put in phone number to send the message to
-# to_number = "+15599206840" salomon
-to_number = "+16268727684"
+# to_number = "+**********" 
+to_number = "+**********"
 
 # Media file to create (Sample)
 # media = "https://images-na.ssl-images-amazon.com/images/I/81w-W0SVkoL._SL1500_.jpg"
